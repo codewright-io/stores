@@ -6,6 +6,7 @@ The current set of storage providers are:
 - Github Repository (via Github Apps)
 - A database (via Entity Framework)
 - Browser local-storage (via Blazor) : To provide browser caching
+- In-memory cache
 - A HTTP client & server interface, to provide a consistent interface
 
 Other future providers might include:
