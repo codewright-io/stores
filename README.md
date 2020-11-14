@@ -13,5 +13,6 @@ Other future providers might include:
 - Standard git
 - Google Drive
 - Cloud providers (S3, Azure Blob, etc...)
+- Event-sourcing (or ledger) based database & HTTP providers: Persist only changes with a history
 	
 	
